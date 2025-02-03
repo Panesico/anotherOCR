@@ -1,6 +1,6 @@
 Global:
-  use_gpu: True
-  epoch_num: 40
+  use_gpu: False
+  epoch_num: 1
   log_smooth_window: 10
   print_batch_step: 10
   save_model_dir: ./output/rec/unimernet/
